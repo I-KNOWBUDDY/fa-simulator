@@ -86,7 +86,6 @@ It helps bridge the gap between **theoretical state diagrams** and **practical e
 
 ```bash
 git clone https://github.com/yourusername/fa-simulator.git
-cd fa-simulator
 ```
 
 ### 2. Install Dependencies
